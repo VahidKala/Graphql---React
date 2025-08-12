@@ -1,0 +1,21 @@
+.nav{
+    padding: 1rem;
+    background-color: rgb(247, 122, 64);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.buttLogout{
+    border: none;
+    padding: .8rem;
+    border-radius: 5px;
+    background-color: rgb(247, 122, 64);
+    border: 1px white solid;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    margin: 1rem;
+    font-size: 1rem;
+}
+.buttLogout:hover{ background-color: rgb(245, 138, 89); }
+.buttLogout:active{ background-color: rgb(236, 175, 106); }

@@ -1,0 +1,12 @@
+.butt{
+    border: 1px white solid;
+    padding: .8rem;
+    border-radius: 5px;
+    color: rgb(29, 4, 4);
+    background-color: rgb(247, 122, 64);
+    cursor: pointer;
+    margin: 1rem;
+    font-size: 1rem;
+}
+.butt:hover{ background-color: rgb(245, 138, 89); }
+.butt:active{ background-color: rgb(236, 175, 106); }

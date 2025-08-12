@@ -1,0 +1,11 @@
+.welcomesection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10rem;
+}
+
+.welcomeh1{
+    font-size: 3.5rem;
+    color: rgb(0, 221, 255);
+}

@@ -1,0 +1,29 @@
+.singlePost{
+    padding: 2rem 3rem;
+    margin: 2rem;
+    border: 1px rgb(192, 192, 192) solid;
+    border-radius: 8px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);
+}
+.singlePost img{
+    width: 70%;
+}
+.singlePost div{
+    display: flex;
+    justify-content: flex-end;
+}
+.singlePost .link{
+    padding: 0.1rem 0.5rem;
+    margin-right: 0.8rem;
+    border: 1px solid rgb(229, 229, 229);
+    text-decoration: none;
+    background-color: rgb(247, 127, 28);
+    color: white;
+    border-radius: 5px;
+}
+.singlePost .link:hover{
+    background-color: rgb(250, 152, 72)
+}
+.singlePost .link:active{
+    background-color: rgb(245, 187, 140);
+}
